@@ -1,0 +1,11 @@
+# DSA Study Notes
+
+## Unit I: Introduction to Data Structures and Algorithms
+- Time Complexity: Big-O analysis of core operations.
+- Ephemeral Data Structures: In-memory singly linked list.
+- Persistent Data Structures: Disk-based repository snapshots.
+
+## Unit II: Arrays and Linked Lists
+- Singly linked list node structure and pointer traversal.
+- Head insertion operation with O(1) time complexity.
+- Memory management: Allocation with 'new' and deallocation with 'delete'.
